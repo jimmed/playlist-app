@@ -1,13 +1,13 @@
 # Playlist
 
-This is a music aggregation app. Connect one or more external accounts to get a combined playlist of all your favorite songs.
+Playlist is a music aggregation app. Connect one or more external accounts to get a combined playlist of all your favorite songs.
 
 ## Roadmap
 
 ### App boilerplate (v0.0)
 
-- [ ] Editor config
-- [ ] Package.json
+- [x] Editor config
+- [x] Package.json
 - [ ] Electron application
  - [ ] React/Redux/Router
 - [ ] Webpack/babel build process (no styles for now)
