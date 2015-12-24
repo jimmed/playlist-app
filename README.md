@@ -8,11 +8,9 @@ Playlist is a music aggregation app. Connect one or more external accounts to ge
 
 - [x] Editor config
 - [x] Package.json
-- [ ] Electron application
+- [x] Electron application
  - [ ] React/Redux/Router
-- [ ] Webpack/babel build process (no styles for now)
-- [ ] Hot reloading
- - [ ] Consider [Electron Connect](https://github.com/Quramy/electron-connect)
+- [x] Gulp/babel build process (no styles for now)
 
 ### SoundCloud stream support
 
