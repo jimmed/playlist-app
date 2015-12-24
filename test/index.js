@@ -1,8 +1,8 @@
-import { describe, it } from 'mocha';
+import { describe, it } from 'electron-mocha';
 import expect from 'expect';
 
 describe('App', () => {
   it('should be importable', () => {
-    require('../src/index.js');
+    require('../dist/index.js');
   });
 });
