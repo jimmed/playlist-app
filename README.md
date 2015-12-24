@@ -21,7 +21,7 @@ Playlist is a music aggregation app. Connect one or more external accounts to ge
  - [ ] Individual unstyled logical components/containers
 - [ ] Can connect a SoundCloud account via oAuth
  - [ ] May require small backend server (Heroku it)
-- [ ] Can discover available playlists (including 'User\'s stream')
+- [ ] Can discover available playlists (including 'User's stream')
 
 ### Plugin-based architecture
 
