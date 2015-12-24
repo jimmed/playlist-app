@@ -1,8 +1,8 @@
-import { describe, it } from 'electron-mocha';
 import expect from 'expect';
+import playlist from '../src/index';
 
 describe('App', () => {
   it('should be importable', () => {
-    require('../dist/index.js');
+    expect(playlist);
   });
 });
